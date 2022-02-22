@@ -1,2 +1,1 @@
-# GitAndGitHub
-Tutorial 
+# Created my first GitHub project
